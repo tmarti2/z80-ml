@@ -1,0 +1,10 @@
+(library
+	(name z80)
+	(modules z80)
+)
+
+; (executable
+; 	(name unit_test)
+; 	(libraries z80)
+; 	(modules unit_test)
+; )
